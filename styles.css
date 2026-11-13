@@ -200,3 +200,4 @@ footer{padding:22px max(calc((100vw - 1280px)/2),28px);background:#102a23;color:
 .case-card:nth-child(5n+3) .case-outcome{background:#edf5df}
 .case-card:nth-child(5n+4) .case-outcome{background:#f2ebff}
 .case-card:nth-child(5n) .case-outcome{background:#e5f5f1}
+.contact-inner .section-kicker>span{min-width:0;height:auto;display:inline;padding:0;border-radius:0;background:none;color:#a9beb1;font-size:9px}
